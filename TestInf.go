@@ -30,7 +30,7 @@ type dog struct{
 }
 
 func (adog dog) say() {
-	fmt.Println("cat says wow")
+	fmt.Println("dog says wow")
 }
 
 func main(){
